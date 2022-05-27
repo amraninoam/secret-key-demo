@@ -12,3 +12,6 @@ The script
 
 ## Implementation
 Run the script `./create-repo.sh` in your `~/temp` folder.
+
+![demo](/docs/animated.gif "demo").
+
